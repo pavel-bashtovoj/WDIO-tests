@@ -115,7 +115,7 @@ exports.config = {
     // See the full list at http://mochajs.org/
     mochaOpts: {
         ui: 'bdd',
-        //timeout: 5000
+        timeout: 1000
     },
     //
     // =====

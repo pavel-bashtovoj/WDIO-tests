@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/klamping/webdriverio-course-content#readme",
   "dependencies": {
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "rgb2hex": "^0.2.5"
   },
   "devDependencies": {
     "@wdio/cli": "^6.10.11",
